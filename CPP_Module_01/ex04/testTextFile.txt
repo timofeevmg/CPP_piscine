@@ -1,0 +1,6 @@
+	For the C++98 modules you will use and learn C++98 only.
+The goal is for you to learn the basic of an object oriented programming language.
+We know modern C++98 is way different in a lot of aspects
+so if you want to become a proeficient C++98, developper you will need
+modern standard C++98 later on. This will be the starting point of your C++98 journey
+it’s up to you to go further after the 42 Common Core!
